@@ -6,5 +6,6 @@ Principais referências
 
 https://android.googlesource.com/platform/frameworks/support/
 https://developer.android.com/jetpack/compose
+
 https://developer.android.com/studio/preview
 https://github.com/android/compose-samples/tree/master/JetNews
